@@ -207,7 +207,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 👥 Contributors
 
 - [Sridevi Raju](https://github.com/Sridevi2108)
-- [Sakthisewari](https://github.com/S-Sakthiswari)
+- [Sakthiswari](https://github.com/S-Sakthiswari)
 
 <!-- Optionally, you can display avatars as well: -->
 
